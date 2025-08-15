@@ -15,7 +15,6 @@ Mini blog statis tentang hidup sehat, dibangun dengan PHP native + Tailwind CDN.
     Jalankan server lokal
     bash
 
-    Copy
 
     php -S localhost:8000
 
