@@ -7,10 +7,10 @@ Mini blog statis tentang hidup sehat, dibangun dengan PHP native + Tailwind CDN.
 - Mudah ditambahkan artikel baru di kode
 
 ## Cara pakai
-1. Clone repo
+### 1. Clone repo
       git clone https://github.com/bangkah/simple-health-blog.git
       cd simple-health-blog
-2. Jalankan server lokal
+### 2. Jalankan server lokal
       php -S localhost:8000
     Buka http://localhost:8000
 
