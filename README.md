@@ -13,8 +13,6 @@ Mini blog statis tentang hidup sehat, dibangun dengan PHP native + Tailwind CDN.
    cd simple-health-blog
 
     Jalankan server lokal
-    bash
-
 
     php -S localhost:8000
 
